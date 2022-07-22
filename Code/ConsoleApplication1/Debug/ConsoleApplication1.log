@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\codetest\ConsoleApplication1\ConsoleApplication1.cpp(115,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+C:\codetest\ConsoleApplication1\ConsoleApplication1.cpp(115,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+C:\codetest\ConsoleApplication1\ConsoleApplication1.cpp(115,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“int *”
+  ConsoleApplication1.vcxproj -> C:\codetest\ConsoleApplication1\Debug\ConsoleApplication1.exe
